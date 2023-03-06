@@ -1,2 +1,4 @@
-# ibm_time_series
-Repository of the archives that i produced to the final project of the IBM course: Specialized Models: Time Series and Survival Analysis
+# Specialized Models: Time Series and Survival Analysis
+_Final Project_
+
+- This is the final project that i did to be approved in the course _Specialized Models: Time Series and Survival Analysis_ from IBM
