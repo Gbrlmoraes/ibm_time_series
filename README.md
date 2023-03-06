@@ -28,4 +28,8 @@ Hourly eletric energy demand from the past 23 years of Brazil, provided by ONS
 ## Dataframe
 ![image](https://user-images.githubusercontent.com/110268371/223233188-b07d1d70-cca1-4add-aaa4-8675f870ba09.png)
 
+# 🏆 Course Certificate
+![image](https://user-images.githubusercontent.com/110268371/223234542-0d016b17-d525-4d41-bdc3-88ac52b67b69.png)
+- link: https://www.coursera.org/account/accomplishments/certificate/YE8RZXBUFWMP
+
 
