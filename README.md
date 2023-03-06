@@ -19,7 +19,10 @@ Hourly eletric energy demand from the past 23 years of Brazil, provided by ONS
 - Source: https://www.kaggle.com/datasets/arusouza/23-years-of-hourly-eletric-energy-demand-brazil?select=energy_demand_hourly_brazil.csv
 
 # 🗓️ Final Results
-## Lineplot
+## Predictions (mean) and real values comparison
+![image](https://user-images.githubusercontent.com/110268371/223233916-96e48863-1468-4b3c-b0bd-ffc828d772b7.png)
+
+## Lineplot of the predictions
 ![image](https://user-images.githubusercontent.com/110268371/223233058-52933baf-4083-483c-a998-2443c46bc0c8.png)
 
 ## Dataframe
